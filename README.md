@@ -104,5 +104,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm Anurag Shahare. I'm an IT professional with a passion for cloud technologies, database management, and data warehousing.
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/baraa-khatib-salkini](https://www.linkedin.com/in/anuragshahare/))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragshahare/)
